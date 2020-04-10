@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ProyectoPeliculas-CursoReact/static/css/main.2da6ceca.chunk.css",
-    "main.js": "/ProyectoPeliculas-CursoReact/static/js/main.586ce2d0.chunk.js",
-    "main.js.map": "/ProyectoPeliculas-CursoReact/static/js/main.586ce2d0.chunk.js.map",
+    "main.js": "/ProyectoPeliculas-CursoReact/static/js/main.0de82b3d.chunk.js",
+    "main.js.map": "/ProyectoPeliculas-CursoReact/static/js/main.0de82b3d.chunk.js.map",
     "runtime-main.js": "/ProyectoPeliculas-CursoReact/static/js/runtime-main.a566dbf8.js",
     "runtime-main.js.map": "/ProyectoPeliculas-CursoReact/static/js/runtime-main.a566dbf8.js.map",
     "static/css/2.b9b2dd63.chunk.css": "/ProyectoPeliculas-CursoReact/static/css/2.b9b2dd63.chunk.css",
     "static/js/2.7c6ec08c.chunk.js": "/ProyectoPeliculas-CursoReact/static/js/2.7c6ec08c.chunk.js",
     "static/js/2.7c6ec08c.chunk.js.map": "/ProyectoPeliculas-CursoReact/static/js/2.7c6ec08c.chunk.js.map",
     "index.html": "/ProyectoPeliculas-CursoReact/index.html",
-    "precache-manifest.69d44a8347894dd70f149fbafa9e7c85.js": "/ProyectoPeliculas-CursoReact/precache-manifest.69d44a8347894dd70f149fbafa9e7c85.js",
+    "precache-manifest.5c34c4457de3f1e0126872f118d8830c.js": "/ProyectoPeliculas-CursoReact/precache-manifest.5c34c4457de3f1e0126872f118d8830c.js",
     "service-worker.js": "/ProyectoPeliculas-CursoReact/service-worker.js",
     "static/css/2.b9b2dd63.chunk.css.map": "/ProyectoPeliculas-CursoReact/static/css/2.b9b2dd63.chunk.css.map",
     "static/css/main.2da6ceca.chunk.css.map": "/ProyectoPeliculas-CursoReact/static/css/main.2da6ceca.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.b9b2dd63.chunk.css",
     "static/js/2.7c6ec08c.chunk.js",
     "static/css/main.2da6ceca.chunk.css",
-    "static/js/main.586ce2d0.chunk.js"
+    "static/js/main.0de82b3d.chunk.js"
   ]
 }
