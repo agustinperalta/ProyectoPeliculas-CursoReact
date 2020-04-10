@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/ProyectoPeliculas-CursoReact/static/css/main.5f361e03.chunk.css",
-    "main.js": "/ProyectoPeliculas-CursoReact/static/js/main.7a228383.chunk.js",
-    "main.js.map": "/ProyectoPeliculas-CursoReact/static/js/main.7a228383.chunk.js.map",
+    "main.css": "/ProyectoPeliculas-CursoReact/static/css/main.2da6ceca.chunk.css",
+    "main.js": "/ProyectoPeliculas-CursoReact/static/js/main.586ce2d0.chunk.js",
+    "main.js.map": "/ProyectoPeliculas-CursoReact/static/js/main.586ce2d0.chunk.js.map",
     "runtime-main.js": "/ProyectoPeliculas-CursoReact/static/js/runtime-main.a566dbf8.js",
     "runtime-main.js.map": "/ProyectoPeliculas-CursoReact/static/js/runtime-main.a566dbf8.js.map",
-    "static/js/2.dfa70295.chunk.js": "/ProyectoPeliculas-CursoReact/static/js/2.dfa70295.chunk.js",
-    "static/js/2.dfa70295.chunk.js.map": "/ProyectoPeliculas-CursoReact/static/js/2.dfa70295.chunk.js.map",
+    "static/css/2.b9b2dd63.chunk.css": "/ProyectoPeliculas-CursoReact/static/css/2.b9b2dd63.chunk.css",
+    "static/js/2.7c6ec08c.chunk.js": "/ProyectoPeliculas-CursoReact/static/js/2.7c6ec08c.chunk.js",
+    "static/js/2.7c6ec08c.chunk.js.map": "/ProyectoPeliculas-CursoReact/static/js/2.7c6ec08c.chunk.js.map",
     "index.html": "/ProyectoPeliculas-CursoReact/index.html",
-    "precache-manifest.ad6bb79e506c6c63ac3e33e4e4465b43.js": "/ProyectoPeliculas-CursoReact/precache-manifest.ad6bb79e506c6c63ac3e33e4e4465b43.js",
+    "precache-manifest.69d44a8347894dd70f149fbafa9e7c85.js": "/ProyectoPeliculas-CursoReact/precache-manifest.69d44a8347894dd70f149fbafa9e7c85.js",
     "service-worker.js": "/ProyectoPeliculas-CursoReact/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/ProyectoPeliculas-CursoReact/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.dfa70295.chunk.js.LICENSE.txt": "/ProyectoPeliculas-CursoReact/static/js/2.dfa70295.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/ProyectoPeliculas-CursoReact/static/media/logo.5d5d9eef.svg"
+    "static/css/2.b9b2dd63.chunk.css.map": "/ProyectoPeliculas-CursoReact/static/css/2.b9b2dd63.chunk.css.map",
+    "static/css/main.2da6ceca.chunk.css.map": "/ProyectoPeliculas-CursoReact/static/css/main.2da6ceca.chunk.css.map",
+    "static/js/2.7c6ec08c.chunk.js.LICENSE.txt": "/ProyectoPeliculas-CursoReact/static/js/2.7c6ec08c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a566dbf8.js",
-    "static/js/2.dfa70295.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.7a228383.chunk.js"
+    "static/css/2.b9b2dd63.chunk.css",
+    "static/js/2.7c6ec08c.chunk.js",
+    "static/css/main.2da6ceca.chunk.css",
+    "static/js/main.586ce2d0.chunk.js"
   ]
 }
