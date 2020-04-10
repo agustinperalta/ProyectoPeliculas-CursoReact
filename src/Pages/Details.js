@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+import "./Detail.css"
 import PropTypes from 'prop-types'
 const API_KEY = '69170918'
 export class Detail extends Component{
@@ -28,7 +29,9 @@ export class Detail extends Component{
         const {Title, Poster, Actors, Metascore, Plot} = this.state.movie
         return(
             <div>
-                <button onClick={this._goBack}>Volver</button>
+                <div className="buttons">
+                    <button onClick={this._goBack} className="button is-primary">Volver a Inicio</button>
+                </div>
                 <h1>{Title}</h1>
                 <img src={Poster} alt={Title}/>
                 <h3>{Actors}</h3>
