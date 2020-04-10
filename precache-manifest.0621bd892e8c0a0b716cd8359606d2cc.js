@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e321c17dd3e2148953fbed32bdfa56b4",
+    "revision": "0a8ce602ab82144198beb79c0c8233e7",
     "url": "/ProyectoPeliculas-CursoReact/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ProyectoPeliculas-CursoReact/static/css/2.b9b2dd63.chunk.css"
   },
   {
-    "revision": "ebb718812b0d1f23fb46",
-    "url": "/ProyectoPeliculas-CursoReact/static/css/main.2da6ceca.chunk.css"
+    "revision": "022d110502f234949e3c",
+    "url": "/ProyectoPeliculas-CursoReact/static/css/main.8079e2b0.chunk.css"
   },
   {
     "revision": "37fc0df721ad8026b52a",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ProyectoPeliculas-CursoReact/static/js/2.7c6ec08c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ebb718812b0d1f23fb46",
-    "url": "/ProyectoPeliculas-CursoReact/static/js/main.0de82b3d.chunk.js"
+    "revision": "022d110502f234949e3c",
+    "url": "/ProyectoPeliculas-CursoReact/static/js/main.4aec2d0b.chunk.js"
   },
   {
     "revision": "6c492dc0302e7882e237",
