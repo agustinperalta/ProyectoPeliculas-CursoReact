@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ProyectoPeliculas-CursoReact/static/css/main.5f361e03.chunk.css",
+    "main.js": "/ProyectoPeliculas-CursoReact/static/js/main.7a228383.chunk.js",
+    "main.js.map": "/ProyectoPeliculas-CursoReact/static/js/main.7a228383.chunk.js.map",
+    "runtime-main.js": "/ProyectoPeliculas-CursoReact/static/js/runtime-main.a566dbf8.js",
+    "runtime-main.js.map": "/ProyectoPeliculas-CursoReact/static/js/runtime-main.a566dbf8.js.map",
+    "static/js/2.dfa70295.chunk.js": "/ProyectoPeliculas-CursoReact/static/js/2.dfa70295.chunk.js",
+    "static/js/2.dfa70295.chunk.js.map": "/ProyectoPeliculas-CursoReact/static/js/2.dfa70295.chunk.js.map",
+    "index.html": "/ProyectoPeliculas-CursoReact/index.html",
+    "precache-manifest.ad6bb79e506c6c63ac3e33e4e4465b43.js": "/ProyectoPeliculas-CursoReact/precache-manifest.ad6bb79e506c6c63ac3e33e4e4465b43.js",
+    "service-worker.js": "/ProyectoPeliculas-CursoReact/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/ProyectoPeliculas-CursoReact/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.dfa70295.chunk.js.LICENSE.txt": "/ProyectoPeliculas-CursoReact/static/js/2.dfa70295.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/ProyectoPeliculas-CursoReact/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a566dbf8.js",
+    "static/js/2.dfa70295.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.7a228383.chunk.js"
+  ]
+}
