@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 import "bulma/css/bulma.css"
-import {Title} from './Components'
+import {Title} from './Components/Title'
 
 function App() {
   return (
