@@ -20,7 +20,7 @@ export class SearchForm extends Component{
         fetch(`https://www.omdbapi.com/?apikey=${API_KEY}&s=${inputMovie}`)
             .then(res => res.json())
             .then(response =>{
-                const {Search, totalResults} = response
+                const {Search = [], totalResults = "0"} = response
                 console.log({Search, totalResults })
                 this.props.onResults(Search)
             })
